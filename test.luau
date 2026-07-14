@@ -1,3 +1,4 @@
+print("12")
 local repo              = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/";
 local Library           = loadstring(game:HttpGet(repo .. "Library.lua"))();
 
